@@ -27,13 +27,6 @@ In this repository, you'll explore the following topics:
 
 Learning programming is most effective when you can put your knowledge into practice. Throughout this repository, you'll find code examples and interactive exercises to enhance your understanding. We encourage you to run the code snippets in your preferred Python development environment and experiment with different inputs. Feel free to modify the examples and observe the outcomes to deepen your understanding.
 
-## Additional Resources
-
-To further expand your knowledge and explore advanced topics, we recommend the following resources:
-
-- [Book Name](link): This comprehensive book covers Python fundamentals and their application in data science.
-- [Online Tutorial](link): This interactive tutorial provides step-by-step guidance on Python programming for data science.
-- [Documentation](link): The official Python documentation is an invaluable resource for detailed explanations and reference materials.
 
 We hope you find this repository helpful on your journey to mastering Python fundamentals for data science. Happy coding!
 
